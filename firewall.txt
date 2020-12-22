@@ -1,0 +1,585 @@
+
+K!...T.._.#!
+
+É necessário aguardar o envio do certificado pelo cliente.
+
+C:\Windows\System32\rundll32.exe dsquery, OpenQueryWindow
+C:\Windows\System32
+
+Chamados atendidos FIREWALL
+418426 - FORTCLIENT NAO CONECTA, ERRO 98%
+418472 - ACESSO - SFTP
+419336 - PORT-CHANNEL
+419394 - ACESSO AOS FIREWALL
+419320 - FW-055 - DETECÇÃO DE POSSÍVEL COMUNICAÇÃO COM A REDE TOR
+418435 - LIBERAÇÃO DE PORTAS
+419712 - BLOQUEIO DE IP MALICIOSO (ENS)
+420086 - RENOVAÇÃO DE CERTIFICADO SSL
+420146 - CONFIGURAÇÃO DO FORTITOKEN
+418280 - ACESSO MISP ONS PELA VPN - TROCA DE REDE DE ACESSO
+419393 - PROBLEMAS DE ACESSO VPN
+419839 - CRIAÇÃO DE NATS PARA SERVIDORES
+419357 - MONITORAMENTO GERA SUPORTE (REFERENTE A 419356 - MT-001 - NOTIFICAÇÃO DE MONITORAMENTO - FW_6501_172.18.57.115: PING)
+418716 - SPLUNK RP -HTTPS-> MISP ONS
+418595 - LIBERAÇÃO DE COMUNICAÇÃO NA PORTA 22 - SHOPPING MOOCA
+419668 - LIBERAÇÃO DE PORTAS PARA O 10.63.55.207, RDM NÃO PROGRAMADA
+420232 - BLOQUEIO DE IP
+417577 - CRIAÇÃO DE VPN ENTRE A EMPRESA COGNA E REAL PROTECT
+420941 - CRIAR LOGIN NO FIREWALL DA MULTIPLAN SÃO PAULO - MTE-RJ - RS484818
+421013 - ENVIO DE NOVO TOKEN APÓS TROCA DE CELULAR
+420155 - CONFIGURAÇÃO DE REGRAS DE FIREWALL PARA NOVO SERVIDOR DE APLICAÇÃO DO SUPRAVIZIO
+420809 - CONFIGURAR RDP PARA NOVO SERVIDOR DO SUPRAVIZIO
+421373 - VPN AUGUSTA
+420968 - LIBERAÇÃO DE CONTEÚDO
+419714 - LIBERAÇÕES PARA CONFIGURAÇÃO DO NOVO CSP, RDM NÃO PROGRAMADA.
+418933 - FALHA DE BACKUP
+422305 - MONITORAMENTO GERA SUPORTE 
+422335 - CORREÇÃO NO ACESSO A VPN
+422354 - MONITORAMENTO GERA SUPORTE 
+422362 - FAVOR CONFIGURAR UM CONTROLE DE BANDA PARA O IP 192.168.25.21 ( BACKUP DRUVA)
+422513 - MONITORAMENTO GERA SUPORTE 
+422512 - MONITORAMENTO GERA SUPORTE
+420949 - PROBELMA COM COPIA DE BACKUPS DO IP 192.168.25.21 PARA A REDE DO SERVIÇO DRUVA E AWS
+422518 - ANALISTA INFORMOU QUE TEVE QUE INSTALAR NOVAMENTE O FORTITOKEN.
+422792 - INCLUIR SERVIDOR 192.168.25.41 NA REGRA DE ID 222.
+418977 - LIBERAÇÕES PARA NOVO SERVIDOR DO SITE CORPORATIVO
+422711 - TROUBLESHOOTING DNAT SITE CORPORATIVO
+422688 - CONEXÃO DC COM DMZ DA BARRA
+423050 - RS 485973 / 485689 / 485736
+423073 - ALTERAÇÃO REGRA DE TRAFFIC SHAPING
+423198 - OLÁ, BOM DIA. GOSTARIA DE UM HELP NA HABILITAÇÃ DO FORTITOKEN NO MEU APARELHO TELEFÔNICO. OBRIGADA.
+422703 - LIBERACAO DE PORTAS 3389 E 80 PARA COMUNICACAO DOS SERVIDORES NO CLIENTE ACCUMED
+423288 - LIBERAR DETERMINADOS IP'S E PORTAS PARA CHAMADAS VINDAS DO MUNDO EXTERNO
+423761 - LIBERACAO DE ACESSO A INTERNET DO SERVIDOR 10.60.55.186
+424075 - ALTERAR IP DE DESTINO DO ENVIO DE SYSLOG PARA TROUBLESHOOTING DO FW EQUINIX
+424502 - GERAR CERTIFICADO VPN - RS 486485
+424189 - NOVA VPN SITE TO SITE NEPOS X MULTIPLAN.
+423077 - ACESSO DO NOVO CSP AO PRTG
+423074 - ACESSO DO NOVO CSP AO GITLAB
+424613 - LIBERAÇÃO DE ACESSO À VPN
+424670 - CRIAÇÃO DE CHAVE DE VPN SSL PARA ANA LUCIA BORBA - RS 486596
+423076 - ACESSO DO NOVO CSP AO REDIS
+424639 - LIBERAÇÃO DO NOVO CSP AO GOOGLE
+423075 - ACESSO DO NOVO CSP A BASE DE DADOS MYSQL
+424577 - CONFIGURAÇÃO DE VPN
+425390 - LIBERAÇÃO PORTA 80
+425655 - RESET DE FORTITOLKEN
+425636 - REGRA DE FW
+426118 - [INT] NIPS-072 - DETECÇÃO DE RECONHECIMENTO
+425919 - MONITORAMENTO GERA SUPORTE 
+425918 - MONITORAMENTO GERA SUPORTE 
+KR 425920 - IMPLANTAÇÃO DE VPN REAL IPSEC L2L RJXDC
+430397 - CONFIGURAR NOVA VPN - NOME DA NOVA VPN: OISC-LGPD
+430884 - LIBERAÇÃO DE ICMP
+429817 - HABILITAR IPS DA AZURE PARA USUÁRIOS DA VPN
+431253 - ALTERAR DNS DA REDE OBRA-JPA (VLAN 176) FIREWALL JPA
+429687 - LIBERAÇÃO DE COMUNICAÇÃO COM A DIRECT CALL NO PABX SP
+429666 - MUDANÇA DE OBJETO EM REGRAS E ROTAS - MISP ONS
+
+
+_1
+BRMalls - Palo Alto - Backoffice 1	https://172.30.20.252	
+BRMalls - Palo Alto - Holding 1 - https://172.30.0.200
+BRMalls - Palo Alto - Backoffice 2	https://172.30.20.253
+BRMalls - Palo Alto - Holding 2 - https://172.30.0.201
+BRMalls - Palo Alto - Tijuca 1 - https://172.30.34.2
+BRMalls - Palo Alto - Tijuca 2 - https://172.30.34.3
+BRMalls - Palo Alto - Azure -  https://52.191.118.147 - https://deathnote.eastus.cloudapp.azure.com/php/login.php
+
+
+Redentor
+Jacarepaga - Redentor (Fortigate)
+10.10.30.1 - go telecom 
+10.10.10.9 - WLE Net 
+10.1.0.0/22 - rede interna
+
+Garagens - Transporte Barra 
+
+Valqueire (Fortigate)
+10.10.30.2 - go telecom 
+10.10.10.11 - WLE Net 
+192.168.0.0/22 - rede interna
+
+Magalhaes Bastos 
+10.10.30.3 - Go telecom
+10.10.10.10 - WLE Net
+192.168.4.0/22 - Rede interna
+192.168.4.1 (Gateway interno)
+10.1.7.0/24 - ANTIGA rede interna **
+
+Estrada da Posse - Campo Grande (PfSense)
+10.10.30.4 - Go telecom
+192.168.8.0/22 (Rede Interna)
+192.168.8.1 (Gateway Interno)
+10.1.8.0/24 - ANTIGA rede interna *
+
+
+
+
+===============================================================================================
+
+comandos no checkpoint
+logar por ssh no DC JUMP (lá tem o putty e iremos logar no manager)
+fazer um ssh para o firewall que queremos rebootar - ssh 172.18.57.114
+verificar se o firewall que estamos logado é o ativo ou o stand-by com o comando cphaprobe state (irá aparecer o (local que é o que estamos logado e seu estado).
+uptime verifica o tempo que o firewall está UP
+reboot realiza o reboot do firewall
+
+Para enviar log iremos logar no putty no manager log, fazer o ssh para o firewall e rodar os comandos abaixo:
+uptime
+chifconfig eth1
+chifconfig eth3
+chifconfig eth6        
+chifconfig eth4        
+
+ifconfig ethtool eth1
+ifconfig ethtool eth3
+ifconfig ethtool eth6
+ifconfig ethtool eth4
+
+show route
+
+exit
+exit
+exit
+
+
+===============================================================================================
+Comando Linux
+How to Restart the SNMP Daemon
+After configuring snmpd.conf, restart the SNMP daemon using the appropriate command:
+For Linux, type:
+
+# service snmpd restart
+
+CentOS 6:
+service snmpd restart
+CentOS 7:
+systemctl restart snmpd
+
+
+
+Versão do Linux  
+cat /proc/version
+
+Reiniciar o splunk
+sudo /opt/splunk/bin/splunk restart
+
+	ou
+$ sudo /opt/splunk/bin/splunk/ stop
+$ sudo /opt/splunk/bin/splunk/ start
+
+
+
+
+=============================================================================================
+
+Comandos PowerShell
+- Saber quem está logado em um micro
+WMIC /NODE:COMPUTERNAME COMPUTERSYSTEM GET USERNAME
+
+ - ifmember /list gustavo.valle
+
+Lista os grupos a qual um usuário é membro
+
+- netsh dhcp show server
+
+Lista os DHCP autorizados no AD
+
+- fc file1 file2
+
+Compara o conteúdo entre arquivos
+
+- systeminfo
+
+Exibe informações importantes, como:
+
+Data de instalação do SO, tempo de inicialização do Sistema, KBs instalados, placas de rede, dominio, servidor de logon (DC autenticado), etc…
+
+- cmdkey /list
+
+Lista credenciais salvas (cofre de senha do Sistema)
+
+- slmgr /dli
+
+Exibe informações da licença / Status licenciamento
+
+- slmgr /xpr
+
+Data de validade do estado da licença atual / Status Ativação
+
+- whoami
+
+Usuário logado
+
+
+- Comando para saber quando um usuário foi criado:
+
+Set objUser = GetObject("LDAP://cn=gustavo valle, ou=TI, dc=grvalle, dc=com")
+Wscript.Echo objUser.WhenCreated
+
+- Comando para saber quando um usuário foi alterado pela última vez:
+Set objUser = GetObject("LDAP://cn=gustavo valle, ou=TI, dc=grvalle, dc=com")
+Wscript.Echo objUser.WhenChanged
+
+
+[ ]'s @grvalle
+
+
+==============================================================================================================================
+
+Queries SPLUNK
+| inputlookup clientes_envio_de_logs.csv | search cliente="Conductor"
+Consultar os Lookups para saber o que gera o SIEM 001
+
+
+SPLUNK
+Busca de IPS realizando transferência na rede do cliente (independe a interface) = host="179.191.101.46" sourcetype=fortigate index=* type=traffic NOT status=deny | eval MB =(round((rcvdbyte+sentbyte)/1024/1024, 2)) | stats sum(MB) AS MB by srcip,dstip,dstport | sort - MB | head 10
+
+Buscar por Host + Sourcetype = host="10.250.0.126" sourcetype="osce*"
+
+Busca por host+ip de origem = host=10.90.90.9 sourcetype=fortigate index=* srcip=10.65.60.1 (Verificar se o device 10.65.60.1 esté enviando logs para o nosso splunk)
+
+Seres host="10.2.20.1" subtype=webfilter| stats count by origem categoria resultado
+
+Criação de GPO = splunk_server="localhost.localdomain" index=wineventlog EventID=5137 src_nt_domain=* src_user=* | table _time localidade Caller_Domain Caller_User_Name endereco_ip
+
+LOGON do user SYSTEMROOT = splunk_server="localhost.localdomain" index=wineventlog eventtype=msad-successful-user-logons usuario="*systemroot*"(Logon_Type=2 OR Logon_Type=9 OR Logon_Type=8 OR Logon_Type=10)Source_Workstation!="127.0.0.1"| stats count by localidade EventCode Logon_Type usuario Source_Workstation endereco_ip
+
+Edição de GPO = splunk_server="localhost.localdomain" index=wineventlog  EventID=5136 OR EventID=5138 OR EventID=5130 src_nt_domain=* src_user=* AND ObjectClass="groupPolicyContainer"
+ | stats count
+
+Criação e Edição de GPO separado por colunas: splunk_server="localhost.localdomain" index=wineventlog  EventID=5137 OR EventID=5136 OR EventID=5138 OR EventID=5130 src_nt_domain=* src_user=*
+| replace "%%14674" with Added in OperationType
+| replace "%%14675" with Removed in OperationType
+| table _time host EventID SubjectUserSid OperationType AttributeLDAPDisplayName ObjectGUID OpCorrelationID   
+| reverse
+
+Busca por hora =  splunk_server="RJDSRV080" host="*" | timechart span=1h count by host
+
+Busca por hora = splunk_server="*" index=firewall sourcetype=fortigate host=10.10.131.100 | timechart span=1h count by host
+
+Busca Logs por Hora de indexação = splunk_server="sp1p-splidx-sec-90" host="sp1p-ad-231" sourcetype="ActiveDirectory" index="msad" | eval time=_indextime | timechart span=1h count by host 
+
+Busca Logs por Hora de indexação = splunk_server="HOSPL03BRM" host="fw-vila-lobos" sourcetype="juniper:junos:firewall" index="firewall" | eval time=_indextime | timechart span=1h count by host
+
+Busca Logs por Hora de indexação = (splunk_server="adc1spl01" OR splunk_server="splunkindexer02" OR splunk_server="prd-fspkidx-01.ons.org.br" OR splunk_server="prd-fspkidx-11.ons.org.br") host="ONS_PRD-OFCSCAN-11_10.27.0.46" sourcetype="osce_console" index="antimalware" | eval time=_indextime | timechart span=1h count by host
+
+| stats count by _time,shost,dhost,ruleName,act
+| stats count by shost,dhost,ruleName,act
+
+Total de logs/eventos OSCE
+sourcetype="osce*" cliente="ACCUMED" splunk_server="*" NOT Virus="Eicar_test_file" | stats count
+
+
+Alterações no Fortigate
+sourcetype=fortigate cliente="Multiplan" source=* type=event subtype=system (user!=N/A OR user!="") (action=Edit OR action=Add OR action=Move OR action=Rename OR action=Delete) | table _time cliente source user ui action cfgpath cfgattr msg
+
+Falha de login no Fortigate
+sourcetype=fortigate cliente="Real Protect" source=fgt_real_sp type=event subtype=system level=alert action=login status=failed | top source, user, reason, ui, msg
+
+(index=firewall OR index=main OR index=fortigate OR index=webfilter) cliente="Multiplan" splunk_server="STVTSK01" sourcetype="fortigate" NOT vd=ACAD subtype=webfilter status=passthrough OR action=passthrough NOT (hostname="*.microsoft.*" OR hostname="*.adobe.*" OR hostname="*.windowsupdate.com*" OR user="") 
+| eval total_mb = (rcvdbyte + sentbyte)/1024/1024 | dedup srcip, dstip, dstport, hostname,sessionid
+| stats sum(total_mb) as Total_MB by user,source, srcip, hostname, catdesc, reqtype | eval Total_MB=round(Total_MB,2) | rename user as Usuário source as "Grupo de Origem" srcip as "IP de Origem" hostname as Hostname catdesc as "Categoria" reqtype as "Tipo de Requisição" Total_MB as "Total em MBytes"
+
+
+(splunk_server="prd-fspkidx-01.ons.org.br" OR splunk_server="prd-fspkidx-11.ons.org.br") (host="10.25.113.90" OR host="10.65.113.90" OR host="ONS_ITACURUBA_10.85.230.28" OR host="ONS_LIMOEIRO_10.85.230.27" OR host="ONS_PENHA_10.45.230.28" OR host="ONS_TIJUCAS_10.45.230.27" OR host="PICINGUABA") sourcetype="*" index="*" | eval time=_indextime | timechart span=1h count by host
+
+
+Trafego de dados
+sourcetype=fortigate subtype=forward OR subtype=local cliente="AUSTRAL" srcintf="*" dstintf="*" | eval trafego=rcvdbyte/duration | eval Mbps=round(trafego*8/1000/1000,2) | bucket _time span=1s | stats sum(Mbps) as Consumo by _time,user,srcip,srcport,dstip,dstport,srcintf,dstintf | sort - Consumo
+
+splunk_server="*" devid=FGT80ETK18010814 dstintf=wan2
+| stats sum(rcvdbyte) as Total_MB by srcip dstip | eval Total_MB=round(Total_MB/1024/1024,0)
+splunk_server="*" devid=FGT40C3914020084 dstintf=wan2
+
+sourcetype=fortigate subtype=forward OR subtype=local devid=FGT80C3913627663 srcintf="*" (dstintf="L1-AUSP1-AURJ1" OR dstintf="L2AUSP-EQUNX-DR" OR dstintf="LV-AUSP1-AUDC01")  | eval trafego=rcvdbyte/duration | eval Mbps=round(trafego*8/1000/1000,2) | bucket _time span=1s | stats sum(Mbps) as Consumo by _time,srcip,srcport,dstip,dstport,srcintf,dstintf | sort - Consumo
+
+(dstintf="L1-AUSP1-AURJ1" OR dstintf="L2AUSP-EQUNX-DR" OR dstintf="LV-AUSP1-AUDC01")
+
+
+splunk_server="RJDSRV080" sourcetype=fortigate subtype=forward OR subtype=local dstintf="VPN_AUG" OR dstintf=RealMSS OR dstintf=RP_SPLK_01 OR dstintf=VPN_MTZ_DC_DDI devname=RJDFGT02 | stats sum(rcvdbyte) as Total_MB by dstintf user srcip dstip | eval Total_MB=round(Total_MB/1024/1024,0)msts
+
+splunk_server="*" devid=FGT3HD3914800282
+| table _time srcip dstip policyid action service hostname url dstport srcintf dstintf
+
+Logins que mais consumiram o Link
+index=firewall sourcetype=fortigate devid="" dstintf="" | stats sum(rcvdbyte) as Total_MB by hostname user | eval Total_MB=round(Total_MB/1024/1024,0) 
+index=firewall sourcetype=fortigate
+
+Acessos realizados através do Link
+index=*fortigate devid="FG100D3G14810973" dstintf="" | stats sum(rcvdbyte) as Total_MB by hostname | eval Total_MB=round(Total_MB/1024/1024,0) 
+index=firewall sourcetype=fortigate
+
+Acesso realizados no Firewall com regra action
+splunk_server="EQNSPLIDX" user=luisfilipe.reboucas srcname=SPXPC179 (action="*" NOT action="accept") | table _time srcip dstip policyid action service hostname url dstport srcintf dstintf
+
+
+
+splunk_server="sp1p-splidx-sec-90" index="McAfee" sourcetype=Skyhigh "anderson.ramalho"
+
+
+Ver histórico de navegação com regra action etc
+splunk_server="*" devid=FG100D3G15828380 (dstintf=wan2 OR dstintf=wan1)
+| table _time srcip dstip policyid action service hostname url dstport srcintf dstintf
+
+
+Consulta da SPX EXECUTAVEL
+
+splunk_server=EQNSPLIDX sourcetype=fortigate subtype!="app-ctrl" url="*.exe" srcip=
+| table _time srcip policyid profile subtype action service hostname url localidade
+| reverse
+
+
+MOV LATERAL SPX
+
+splunk_server=EQNSPLIDX index=firewall sourcetype=fortigate srcip="192.168.1.197" sentpkt>20 rcvdpkt>50 
+| stats count by interface_origem interface_destino origem srcmac osname destino porta_destino service
+
+Consulta disp removivel
+
+splunk_server="CSGR_SPLUNKSH" sourcetype=osce ComputadorNome=""
+| table _time ComputadorNome IP UsuarioLogado Virus ArquivoInfectado TipoScan TextoResultado
+
+
+Consulta Block de site
+
+cliente=accumed sourcetype=sophos:utm:httpproxy origem= usuario=leandro.melo dominio 
+| table _time action method category client group profile  status url 
+| reverse
+
+
+Consulta Troca de senha:
+
+Lista o evento (senha expirada por exemplo)
+splunk_server=EQNSPLIDX index=wineventlog EventID=4625 user=
+| table _time WorkstationName Source_Workstation action Account_Name LogonType LogonProcessName ProcessID IpAddress app assinatura name
+| reverse
+
+Lista troca de senhas e reset de senhas
+splunk_server=EQNSPLIDX index=wineventlog EventID=4723 OR EventID=4724
+| stats count by user EventID
+
+
+Lista senha expirada / troca e reset de senha por usuário
+splunk_server=EQNSPLIDX index=wineventlog EventID=4625 OR EventID=4723 OR EventID=4724 user=gabriela.sabino
+| table _time host EventID WorkstationName Source_Workstation action Account_Name LogonType LogonProcessName ProcessID IpAddress app assinatura name
+
+
+FW-021 - Conductor
+
+splunk_server="sp1p-splidx-sec-90" index=firewall sourcetype=opsec proto!="1" 
+src="10.18.1.32" (dst="10.100.21.140" OR dst="10.100.21.22")
+| `range_ip(src,dst)`
+| search src_ip_reservado="Sim" dest_ip_reservado="Sim" 
+| stats count by cliente, produto, src, dst, proto, service
+| replace "6" with "TCP" in proto
+
+
+splunk_server="sp1p-splidx-sec-90" index=firewall sourcetype=checkpoint proto!="1" 
+src="10.18.1.32" (dst="10.100.21.140" OR dst="10.100.21.22")
+| `range_ip(src,dst)`
+| search src_ip_reservado="Sim" dest_ip_reservado="Sim" 
+| stats dc(service) AS total_portas by cliente, produto, src, dst, proto
+| replace "6" with "TCP" in proto
+
+
+(Multiplan) Possível tráfego totalmente liberado de máquina para internet
+splunk_server="STVTSK01" index=firewall sourcetype=opsec origem=10.19.9.34 destino=177.124.58.68 OR destino=185.188.32.15 OR destino=185.188.32.5 OR destino=188.172.244.157 | table _time origem destino action
+| dedup destino
+
+
+Disp móveis CESGRANRIO
+
+splunk_server="CSGR_SPLUNKSH" sourcetype=osce ComputadorNome=""
+| table _time ComputadorNome IP UsuarioLogado Virus ArquivoInfectado TipoScan TextoResultado
+
+SIEM-001 - Funenseg
+splunk_server="RJDSRV080" host="192.168.11.1" sourcetype="fortigate" index=" [firewall" | timechart span=1h count by host
+
+
+VPN CONDUCTOR FALHA LOGIN
+
+splunk_server="sp1p-splidx-sec-90" index=firewall sourcetype=fortigate subtype=vpn user=evandro.silveira.ext action="ssl-login-fail"
+
+
+Re. Malware Multiplan
+
+sourcetype="osce*" cliente="Multiplan" ComputadorNome="WDMM0025" Virus="Coinminer_MALREP.THDAAAH"
+
+
+
+IP externo VPN 
+
+splunk_server=adc1spl01 sourcetype="fortigate" type=* user= subtype=vpn action="tunnel-up" | stats count by _time, user, remip, tunnelip
+
+
+VPN DOWNLOAD
+
+splunk_server="sp1p-splidx-sec-90" sourcetype=fortigate subtype=forward  user=g.dalberto.ext service=MS-SQL srcip=10.19.248.54 dstip=10.60.33.77
+| eval bytes=rcvdbyte      
+| stats  sum(bytes) AS bytes by _time source username srcip dstip service appcat      
+| eval  MB=round(bytes/1024/1024, 2)      | sort  - MB
+
+
+SIEM-001 Brmalls
+splunk_server="HOSP*" index=wineventlog  | timechart span=1d count by host
+
+
+
+
+splunk_server="CSGR_SPLUNKSH" index=HIPS vdi-profile* sourcetype="deepsecurity-antimalware"
+| table _time dvchost act msg filePath
+
+
+Falha na limpeza
+
+splunk_server="HOSP*"   sourcetype="symantec:ep:risk:file" host="*"    | stats  count by _time user Computer_Name codigo_malicioso  caminho_do_arquivo action resultado Requested_Action Secondary_Action tipo_scan
+
+
+
+Entrega de logs Brmalls:
+splunk_server="HOSP*"  sourcetype="juniper:junos:firewall" host="fw-catuai-londrina"  OR  host="fw-capim-dourado"  OR host="fw-estacao-bh" OR host="BRMCSCAVW" OR host="BRMCSCDC02" OR host="BRMCSCDC01" OR host="fw-tambore" OR host="fw-londrina-norte" OR host="fw-independencia" OR host="fw-norte-rj" OR host="fw-campinas" OR host="fw-sao-bernardo-plaza" OR host="fw-estacao-bh" OR host="fw-capim-dourado"   | eval _time=_indextime | timechart  span=1h count by host
+
+
+Consulta para link malicioso Brmalls(caso do link com ip zoado)
+splunk_server="HOSP*"    index="firewall"   host="BRM-*-PA*.brmalls" sourcetype="*"  sourcetype="pan:threat" origem=172.30.24.74
+  | stats  count by _time localidade usuario origem  destino categoria dominio url  resultado
+
+
+Mov lateral Veirano:
+(index=firewall OR index=main) cliente="Veirano Advogados" (sourcetype=sophos:utm:firewall log_type="Firewall") origem=10.21.160.78  fw_rule_id=0 policy_type=0
+| stats count by _time origem destino log_subtype id_da_politica porta_origem porta_destino
+
+
+
+Quantidade x tempo de download VPN
+
+splunk_server="RJDSRV080"  sourcetype=fortigate subtype=forward user=rodrigo.sphere service=SMB srcip=10.212.130.2 dstip=192.168.1.14
+| eval bytes=rcvdbyte     
+| stats  sum(bytes) AS bytes by _time source username srcip dstip service appcat     
+| eval  MB=round(bytes/1024/1024, 2)      | sort  - MB
+
+
+DOwnlaod executável conductor
+splunk_server="sp1p-splidx-sec-90" index=webfilter sourcetype="symantec:websecurityservice:scwss-poll" 
+cs_userdn="CONDUCTOR\\tatiane.sousa" cs_uri_path="*.exe" 
+ | stats  count by c_ip s_ip cs_userdn x_client_device_name x_client_os cs_categories cs_host cs_uri_path sc_filter_result cs_method
+
+
+
+Multiplan:
+AD-004 consulta 1 - Para pegar o hostname
+cliente="Multiplan" index="wineventlog" sourcetype="XmlWinEventLog:Security" user="mfleck" action=failure | stats count by dominio, WorkstationName, endereco_ip
+
+Consulta 2 - Para pegar o IP
+cliente="Multiplan" sourcetype="osce*" ComputadorNome="WBSS0071" | stats count by Dominio, IP
+
+Consulta 3 (Paulo) - PEgar IP e Hostname
+cliente=multiplan index=firewall sourcetype=fortigate subtype=router hostname="DESKTOP-27A*" | stats values(hostname) as computador by localidade mac ip
+
+Consulta chamados de WS Veirano:
+cliente="*veirano*" index="firewall" sourcetype="*sophos*" host=* dominio=c.t.dps-reach.com origem=10.11.2.2 | table _time time log_id user_agent origem destino log_subtype  con_id log_type  url dominio sent_bytes recv_bytes status_code categoria | reverse
+
+
+Acessos Originados de Computadores REAL PROTECT (VPN)
+cliente="Real Protect" splunk_server="splunkindexer0*"  sourcetype=fortigate type=event subtype=vpn group=NOTEBOOK_REAL OR group=VPN-REAL OR group=VPN-REAL-MAC-REGISTRADO NOT group=N/A NOT user=N/A 
+| sort user
+| dedup user
+| rename remip as "Último IP"
+| rename user as "Login"
+|  table Login "Último IP"
+
+Acessos Originados de Computadores EXTERNOS (VPN)
+cliente="Real Protect" splunk_server="splunkindexer0*"  sourcetype=fortigate type=event subtype=vpn NOT ( group=NOTEBOOK_REAL OR group=VPN-REAL OR group=VPN-REAL-MAC-REGISTRADO ) NOT user=N/A NOT group=N/A
+| sort user
+| dedup user 
+| rename remip as "Último IP"
+| rename user as "Login"
+|  table Login "Último IP"
+
+
+Top 10 último dia - Usuários por tempo conectado VPN
+cliente="Real Protect" splunk_server="splunkindexer0*"   index=firewall sourcetype=fortigate type=event subtype=vpn duration="*" sentbyte="*" rcvdbyte="*" NOT user="N/A" user="*"
+| stats latest(duration) as Duration by user tunnelid
+| stats sum(Duration) as segundos by user
+| eval minutos = (round(segundos/60,2))
+| eval horas = (round(minutos/60,2))
+| fields user minutos
+| rename minutos as "Total Time (Min)" user as User
+| sort 10 - "Total Time (Min)"
+
+
+Total Conexões VPN por horário - 5 dias
+cliente="Real Protect" splunk_server="splunkindexer0*"  sourcetype=fortigate type=event subtype=vpn NOT user="N/A" NOT msg="User changed SSL setting" 
+| bucket _time span=2h | stats count by _time user 
+|  dedup _time user
+|  stats count by _time
+
+Picos de Acesso à VPN - 5 dias
+ cliente="Real Protect" splunk_server="splunkindexer0*"  sourcetype=fortigate type=event subtype=vpn NOT user="N/A" NOT msg="User changed SSL setting" 
+| bucket _time span=2h | stats count by _time user
+|  stats count AS QTDHR by _time
+| bucket _time span=1d | stats max(QTDHR) AS Total by _time
+
+
+
+
+AD-003 - Alteração de grupo com privilégio administrativo
+sourcetype="WinEventLog:Security" eventtype=msad-nt5-groupmembership-changes OR eventtype=msad-nt6-groupmembership-changes (Group_Name="Enterprise Admins" OR Group_Name="Domain Admins" OR Group_Name="Schema Admins") msad_action="added" | eval tecnologia_alerta="Active Directory" | eval codigo_alerta="AD-003" | eval alerta="Moniramento de alteração de grupo com privilégio administrativo" | addinfo | eval _time=info_search_time | eval referencia=member_id | eval resultado="Usuário: " + member_id + " alterado para o grupo " + Grupo + " pelo usuário: " + src_user + " com a ação: " + msad_action + " e resultado: " + action + " no domain controller: " + ComputerName | eval criticidade="high" | eval produto="AD" | table cliente, tecnologia_alerta, codigo_alerta, alerta, _time, referencia, resultado, criticidade, produto  | join type=left cliente, tecnologia_alerta, codigo_alerta, alerta, referencia, criticidade, produto [search index=alertas_controles earliest=-160m@m latest=now | eval alerta_ja_existente="sim" | table cliente, tecnologia_alerta, codigo_alerta, alerta, referencia, criticidade, produto, alerta_ja_existente]  | search NOT alerta_ja_existente="sim" | fields - alerta_ja_existente| collect index=alertas_controles sourcetype=alertas host=splunk source=alertas
+
+
+
+
+Buscar assinatura IP e ação da regra
+splunk_server="PLRJ-SPLIX-01.raiz.bbm" sourcetype="fortigate" subtype="ips"
+
+================================================================================================================================================
+
+Comandos Cisco
+
+ip dhcp snooping information option allow-untrasted habilita a opção 82 nos devices de comutação que irão inserir um conjunto de instruçoes no cabeçalho e irão retransmitir para o servidor dhcp.
+Servidor dhcp irá receber a requisição e ler a opção 82 e inserir as opções solicitados.
+
+ip ssh version 2 habilita a versão 2 do ssh.
+ip ssh authentication-retries bloqueia erros seguidos de autenticação via ssh.
+ip ssh time out - habilita tempo de inatividade
+ip domain-name xxxxx.local (exemplo) - usado para o ssh fazer login
+
+ip name-server 192.xxx.xxx.xxx -configura qual o dns
+
+switchport port-security = habilita a segurança na aprendizagem de mac na interface
+mac-address stick = aprende mac dinamicamente na interface
+
+switchport nonegotiate = desabilita a autonegaciação de subir tronco na interface
+switchport port-security aging time = negocia o tempo que o mac será mantido na cam table.
+
+duplex = habilita o modo de negociação da interface - full ******
+
+speed = habilita a velocidade de transmissão da interface
+
+mdix = ou no mdix = habilita/desabilita a possibilidade de utilizar qualquer cabo na interface, exemplo usar um cabo direto para ligar switchs.
+
+ip default-gateway = informa qual o ip que é o gateway da rede
+
+snmp-server community xxxx RO ou RW = cria a comunidade snmp e qual a permissão da comunidade
+
+logging = informa qual o servidor de syslog
+
+loggin-synchronous = desabilita a mensagem de up de link que aparece , nesse caso ele vai para linha de cima não atrapalhand a digitação.
+
+
+transport input ssh configurado na interface informa que o somente o protocolo ssh será usado para acesso.
+
+login local informa que será solicitado login para logar na interface - login criado localmente
+
+ntp ip authencitication-key é usado para setar o grupo e a senha do servidor ntp externo
+ntp authenticate informa que será necessári autenticar para usar o servidor ntp
+ntp server é para setar o ip do servidor ntp da rede
+ntp update-calendar diz que o ntp irá atualizar o calendario automaticamente
+
+
+
+https://console.cloud.google.com/networking/firewalls/list?authuser=2&project=prod-configs&supportedpurview=project&pageState=(%22firewallTable%22:(%22s%22:%5B(%22i%22:%22priority%22,%22s%22:%220%22),(%22i%22:%22networkUrl%22,%22s%22:%220%22),(%22i%22:%22direction%22,%22s%22:%220%22),(%22i%22:%22actionType%22,%22s%22:%221%22),(%22i%22:%22name%22,%22s%22:%220%22)%5D))
+
+
