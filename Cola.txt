@@ -1,0 +1,65 @@
+Tel: 	21142312 / 11 4861.4003 - Ramal 3018 / opção 1 SOC
+172.20.70.11 - Probe Real Protect (servidor do PRTG - Omel5
+
+=====================================================
+
+Reiniciar Splunk
+/etc/init.d/splunk restart
+systemctl restart splunk
+systemctl status splunk
+
+Reiniciar serviço IMSVA
+caminho /opt/trend/umas/script
+script imssctl.sh restart
+
+Redirecionamento de Porta (DNAT)
+Criar a regra no Virtual IP inserir o IP publico da Interface WAN o IP interno e a porta
+Depois criar a regra para aceitar em Police IPV4
+Verificar se está recebenbdo log..
+Snifar a interface 
+
+Kill no processo WAD
+diag sys kill 11 PROCESSO
+
+diag test application wad 99
+
+=====================================================
+
+ABUSE
+https://www.urlquery.net/search - PEga a url e coloca na ferramenta e ela vai acessar e esse site e trazer um print screem de tudo o que ocorreu na maquina ao acessar o sites, se foi redirecionado, se foi executado algum java script. ETC
+https://mxtoolbox.com/ -  Ferramentas para fazer analise de um IP, de um nome, MXTESTTverifica se está em alguma blacklist / 
+https://www.virustotal.com/gui/home/upload - reputação de url, reputação de ips, reputação de arquivos, se tem soluções de antivirus que detectam aquele arquivo.
+https://www.urlvoid.com/
+=====================================================
+
+https://monitoramento.realprotect.net/alarms.htm?filter_status=5
+https://monitoramento.firjan.org.br/public/login.htm?loginurl=%2Falarms.htm%3Ffilter_status%3D5&errorid=0
+https://atendimento.realprotect.net/Supravizio/Login.aspx?ReturnUrl=%2fSupravizio%2fForms%2fProcesso%2fWorkspace%2fWorkspace.aspx%3fTID%3d36&TID=36
+https://automidia.firjan.org.br/CookieAuth.dll?GetLogon?curl=Z2Fservicedesk_principalZ2F&reason=0&formdir=3
+https://172.20.20.188/en-US/app/realprotect/alertas_crticos
+
+
+Real - Links Wikis em Ordem
+http://wiki/mediawiki/index.php/Main_Page
+http://wiki/mediawiki/index.php/Localizador_de_Pessoas
+http://wiki/mediawiki/index.php/Lista_dos_Pontos_Focais_nos_Clientes
+http://wiki/mediawiki/index.php/Lista_de_Endere%C3%A7o_dos_Clientes_para_Notifica%C3%A7%C3%A3o
+http://wiki/mediawiki/index.php/Abertura_de_chamado_com_a_Operadora
+
+Firjan - Links Wikis em Ordem
+http://wiki/mediawiki/index.php/FIRJAN (todos os dados incluindo operadora)
+http://wiki/mediawiki/index.php/Procedimentos
+http://wiki/mediawiki/index.php/Gerentes_Operacionais
+
+
+Monitorar o tempo todo
+https://monitoramento.realprotect.net
+https://monitoramento.firjan.org.br
+https://atendimento.realprotect.net/Supravizio/Forms/Processo/Workspace/Workspace.aspx?TID=36
+https://automidia.firjan.org.br/servicedesk_principal/
+CRITICO O TEMPO TODO - https://splunk.realprotect.net/en-US/app/search/alertas_criticos?form.field1.earliest=-12h%40h&form.field1.latest=now&form.ANALISTA=FILA%20-%20SOC&earliest=0&latest=
+https://splunk.realprotect.net/en-US/app/search/meta_apontamentos_mensal?form.tokentime.earliest=-1mon%40mon&form.tokentime.latest=%40mon&earliest=0&latest=&form.switch=operacao&form.switchativos=remocao&form.timepicker.earliest=-1mon%40mon&form.timepicker.latest=%40mon&form.empdesc=Selecione&form.searchdevice=*&form.switching=both&form.choicename=%60equie_monitoramento_nowhere%60
+https://splunk.realprotect.net/en-US/app/teste_app/indicadores_soc?form.T1.earliest=%40mon&form.T1.latest=now&form.T2.earliest=%40w0&form.T2.latest=now&earliest=0&latest=&form.T3.earliest=-7d%40h&form.T3.latest=now
+
+PMP - rpvs008 (Portal com as aplicações que temos acesso)
+https://rpvs008.br.realprotect.net:7272/PassTrixMain.cc
